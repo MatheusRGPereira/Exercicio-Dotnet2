@@ -1,0 +1,15 @@
+C:\Users\I\source\repos\ReadFile\ReadFile\bin\Debug\net7.0\ReadFile.exe
+C:\Users\I\source\repos\ReadFile\ReadFile\bin\Debug\net7.0\ReadFile.deps.json
+C:\Users\I\source\repos\ReadFile\ReadFile\bin\Debug\net7.0\ReadFile.runtimeconfig.json
+C:\Users\I\source\repos\ReadFile\ReadFile\bin\Debug\net7.0\ReadFile.dll
+C:\Users\I\source\repos\ReadFile\ReadFile\bin\Debug\net7.0\ReadFile.pdb
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\ReadFile.csproj.AssemblyReference.cache
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\ReadFile.AssemblyInfoInputs.cache
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\ReadFile.AssemblyInfo.cs
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\ReadFile.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\ReadFile.dll
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\refint\ReadFile.dll
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\ReadFile.pdb
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\ReadFile.genruntimeconfig.cache
+C:\Users\I\source\repos\ReadFile\ReadFile\obj\Debug\net7.0\ref\ReadFile.dll
